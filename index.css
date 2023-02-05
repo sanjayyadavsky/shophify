@@ -1,0 +1,17 @@
+.hero-background{
+    background-image: linear-gradient(203deg,rgba(132,174,241,.867) 8.4%,#26ee9f78 30.67%,rgba(21,188,223,.333) 70.04%,#fff0 85%);
+}
+.hero-backgroundb:before {
+    background-image: radial-gradient(100% 68% at 70% 15%,#0000 40%,#fff 79%),conic-gradient(from 90deg at 1px 1px,#0000 90deg,#cad4d733 0);}
+
+ .navbar{
+    background: linear-gradient(to bottom, #fff 0%, #ffffff 53%, #ffffffa1 70%, #ffffff00 );
+ }   
+
+.hello-world{
+    background-image: linear-gradient(90deg,#e9f9f4 0%,#cfebfe 45.31%,#f2eefe 100%);
+}
+.hello-line{
+    background-image: linear-gradient(177deg,#01c8e2 0%, #01e2a2 100%);
+
+}
