@@ -13,5 +13,10 @@
 }
 .hello-line{
     background-image: linear-gradient(177deg,#01c8e2 0%, #01e2a2 100%);
+}
+.free-trail{
+  
+    background: linear-gradient(to right, #89ffbe 0%, #a4f787 53%, #adc6d1 70%, #b3aafb );
 
 }
+
